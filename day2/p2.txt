@@ -1,0 +1,2 @@
+opcode[1] = 79
+opcode[2] = 12
